@@ -1,0 +1,6 @@
+transformers
+torch
+langdetect
+nltk
+scikit-learn
+pytest
